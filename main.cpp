@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        dog
+//  action 1:    the dog barks
+dog.bark();
+//  action 2:    the dog runs
+dog.run();
+//  action 3:    the dog sits
+dog.sit();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        alarmClock
+//  action 1:    the alarmClock chimes
+alarmClock.chime();
+//  action 2:    the alarmClock advances minute hand
+alarmClock.minuteHandIncrement();
+//  action 3:    the alarmClock advances hour hand
+alarmClock.hourHandIncrement();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        housePlant
+//  action 1:    the housePlant grows
+housePlant.grow();
+//  action 2:    the housePlant wilts
+housePlant.wilt();
+//  action 3:    the housePlant flowers
+housePlant.flower();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        phone
+//  action 1:    the phone rings
+phone.ring();
+//  action 2:    the phone connects
+phone.connect();
+//  action 3:    the phone disconnects
+phone.disconnect();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        fish
+//  action 1:    the fish swims
+fish.swim();
+//  action 2:    the fish splashes
+fish.splash();
+//  action 3:    the fish eats
+fish.eat();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        LFO
+//  action 1:    the LFO starts
+lfo.start();
+//  action 2:    the LFO stops
+lfo.stop();
+//  action 3:    the LFO updates
+lfo.update();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        cat
+//  action 1:    the cat meows
+cat.meow();
+//  action 2:    the cat stalks
+cat.stalk();
+//  action 3:    the cat pounces
+cat.pounce();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        playHead
+//  action 1:    the playHead advances
+playHead.advance();
+//  action 2:    the playHead resets
+playHead.reset();
+//  action 3:    the playHead triggers a step
+playHead.triggerStep();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        coffeeMachine
+//  action 1:    the coffeeMachine grinds beans
+coffeeMachine.grindBeans();
+//  action 2:    the coffeeMachine heats water
+coffeeMachine.heatWater();
+//  action 3:    the coffeeMachine dispenses coffee
+coffeeMachine.dispenseCoffee();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        snow
+//  action 1:    the snow falls
+snow.fall();
+//  action 2:    the snow drifts
+snow.drift();
+//  action 3:    the snow flurries
+snow.flurry();
 
 
 #endif
