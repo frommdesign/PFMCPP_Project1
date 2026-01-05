@@ -124,13 +124,13 @@ playHead.reset();
 playHead.triggerStep();
 
 //  9)
-//  Noun:        wind
-//  action 1:    the wind blows
-wind.blow();
-//  action 2:    the wind gusts
-wind.gust();
-//  action 3:    the wind changes direction
-wind.changeDirection();
+//  Noun:        coffeeMachine
+//  action 1:    the coffeeMachine grinds beans
+coffeeMachine.grindBeans();
+//  action 2:    the coffeeMachine heats water
+coffeeMachine.heatWater();
+//  action 3:    the coffeeMachine dispenses coffee
+coffeeMachine.dispenseCoffee();
 
 //  10)
 //  Noun:        snow
